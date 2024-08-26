@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+#These functions combine to create and solve a cacheable matrix through R.
 
 #This function creates the cacheable matrix to be solved by "cacheSolve" in the other file
 makeCacheMatrix <- function(x = matrix()) {
